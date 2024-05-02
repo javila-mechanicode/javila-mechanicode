@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javila-mechanicode
-- mechanicode.io
-- johnavila.dev
+- https://mechanicode.io
+- https://johnavila.dev
 
 <!---
 javila-mechanicode/javila-mechanicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
